@@ -1,2 +1,2 @@
 [webservers]
-10.107.52.58 ansible_user=skn ansible_pass=skn 
+10.107.52.158 ansible_user=skn ansible_pass=skn 
